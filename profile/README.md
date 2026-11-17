@@ -26,7 +26,7 @@ Everything here is maintained by Dr Johan Pieterse, The Archive and Heritage Dig
 
 ## Where things stand
 
-- **The specification** is at version 0.57: seven profiles normative, five in draft. Its changes are in [CHANGELOG.md](https://github.com/openric/spec/blob/main/CHANGELOG.md).
+- **The specification** is at version 0.58: seven profiles normative, five in draft. Its changes are in [CHANGELOG.md](https://github.com/openric/spec/blob/main/CHANGELOG.md).
 - **The Workspace** is in development and not yet released for use: install it to try it, not to hold an archive's only copy of anything. RiC-CM 1.0.1 and RiC-O 1.1 are its model; ISAD(G), ISAAR(CPF), ISDIAH, ISDF, EAD and EAC-CPF are views of it and formats in and out. Its OpenRiC profiles are tested in every release. Two outside assessments in November 2026 found it ready for demonstrations and pilot preparation, not yet for an institution's authoritative records. What it still needs (a tested restore, the staff side at 100,000 records, adversarial security tests, an outside installer, security tester and archivist) is on its [roadmap](https://github.com/openric/workspace/blob/main/ROADMAP.md), and every decision is on [openric.org](https://openric.org/application/decisions/).
 - **The service** is the reference implementation of the API, with its own [plans](https://github.com/openric/service/tree/main/docs/plans).
 
